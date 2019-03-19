@@ -1,0 +1,19 @@
+{
+  "name": "feedback-collection",
+  "version": "1.0.0",
+  "description": "Feedback Collection",
+  "main": "index.js",
+  "engines": {
+    "node": "8.1.1",
+    "npm": "5.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["Feedback", "collection"],
+  "author": "Haseeb Shahid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
